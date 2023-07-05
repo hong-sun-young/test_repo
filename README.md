@@ -20,3 +20,5 @@ AWS EC2 서버에 전체 프로젝트 코드를 보내지 않고 빌드한 파�
 프로젝트의 크기가 압축해서 전달하기 부담스러울 것 같은데 그럴 때 사용하면 좋을 것 같아요.
 
 수정 사항과 자세한 내용은 [Pull Request](https://github.com/ParkJiwoon/practice-github-action/pull/14) 로 대체합니다.
+
+# 230705
