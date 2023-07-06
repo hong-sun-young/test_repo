@@ -21,4 +21,4 @@ AWS EC2 서버에 전체 프로젝트 코드를 보내지 않고 빌드한 파�
 
 수정 사항과 자세한 내용은 [Pull Request](https://github.com/ParkJiwoon/practice-github-action/pull/14) 로 대체합니다.
 
-# 230705 222
+# 230706 222
